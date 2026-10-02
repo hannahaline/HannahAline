@@ -1,39 +1,16 @@
+## Hannah Henry
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hannah+Henry!;" />
-</h1>
+Ph.D. student in Earth, Marine, and Environmental Sciences at the University of North Carolina at Chapel Hill, in the [Coastal Environmental Change Lab](https://cecl.web.unc.edu/) (advisor: Dr. Laura Moore).
 
-<h3 align="center">Earth, Marine, and Environmental Ph.D. Student at UNC Chapel Hill</h3>
+I study how barrier islands change, and what that change means for the communities and wildlife that depend on them. My work combines numerical modeling, remote sensing, and stakeholder input to examine shoreline change on developed and undeveloped coastlines under climate change.
 
-<br/>
+**Current work**
 
-<div align="center">
- 
- 🌎 I’m currently working on forecasting **developed barrier island evolution**
- 
- 🌱 I’m currently using the **CoAStal Community-lAnDscape Evolution (CASCADE) model**
+- **Hatteras Island, NC.** Hindcasting the evolution of a developed barrier island with the [CoAStal Community-lAnDscape Evolution (CASCADE)](https://github.com/UNC-CECL/CASCADE) model, and evaluating management strategies such as beach nourishment, groins, and road relocation against observed shoreline change.
+- **Virginia Coast Reserve.** Modeling shorebird habitat dynamics to understand how geomorphic change shapes species persistence.
 
-💬 Ask me about **coastal gemorphology, wildlife... or anything [here](https://hannahalinehenry.wixsite.com/hannah-henry)**
+**Research interests:** coastal geomorphology · barrier island evolution · coastal management and managed retreat · wildlife ecology and habitat
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:hahenry@unc.edu">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/hannah-aline" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://hannahalinehenry.wixsite.com/hannah-henry" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+**Tools:** Python · R · Git
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=github,r" />
-    <img src="https://skillicons.dev/icons?i=python" /><br>
-</div>
+[Website](https://hannahaline.github.io) · [Google Scholar](https://scholar.google.com/citations?user=rFOSoSYAAAAJ) · [ORCID](https://orcid.org/0000-0003-0767-8669) · [LinkedIn](https://linkedin.com/in/hannah-aline) · [hahenry@unc.edu](mailto:hahenry@unc.edu)
