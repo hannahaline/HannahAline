@@ -21,14 +21,6 @@ I study how barrier islands change, and what that change means for the communiti
 - **Henry H\***, Moore L, Franklin B, Anarde K, Murray B, & Dalyander S. The effect of climate and management strategies on developed barrier island evolution: Insights from a case study of Hatteras Island. *In preparation.*
 - M.Sc. thesis, Auburn University (2024). [Auburn ETD](https://etd.auburn.edu/handle/10415/9305)
 
-**Honours**
-
-- NSF-ASI Fellow, Coastal Hazards Training Program, Indonesia (2025)
-- Katherine S. McCarter Graduate Student Policy Award, Ecological Society of America (2024)
-- Best Graduate Student Oral Presentation, Atlantic Estuarine Research Society (2024) and Coastal and Estuarine Research Federation (2023)
-- Ronald F. Labisky Graduate Fellowship in Wildlife Policy, The Wildlife Society (2023–24)
-- Founder, Coastal and Marine Wildlife Working Group, The Wildlife Society (2024)
-
 Full list on my [website](https://hannahaline.github.io/publications/).
 
 [Website](https://hannahaline.github.io) · [Google Scholar](https://scholar.google.com/citations?user=rFOSoSYAAAAJ) · [ORCID](https://orcid.org/0000-0003-0767-8669) · [LinkedIn](https://linkedin.com/in/hannah-aline) · [hahenry@unc.edu](mailto:hahenry@unc.edu)
